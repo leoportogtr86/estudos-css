@@ -293,5 +293,4 @@ os práticos
     - Just-in-time compilation para variáveis CSS
 
 Este guia abrange uma ampla gama de tópicos de CSS, proporcionando uma progressão do básico ao avançado, e é ideal para
-qualquer pessoa que deseje se aprofundar no CSS e dominar suas diversas funcionalidades.#   e s t u d o s - c s s  
- 
+qualquer pessoa que deseje se aprofundar no CSS e dominar suas diversas funcionalidades.
