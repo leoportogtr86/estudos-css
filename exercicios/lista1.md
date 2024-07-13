@@ -1,8 +1,9 @@
-Claro! Aqui está uma lista de 15 exercícios sobre seletores CSS (seletores básicos e seletores de atributo):
+Claro! Aqui está uma lista de 15 exercícios sobre seletores CSS
+(seletores básicos e seletores de atributo):
 
 ### Exercícios sobre Seletores CSS
 
-1. **Exercício 1:** Utilize um seletor de elemento para alterar a cor de todos os parágrafos (`<p>`) para azul.
+1. **Exercício 1:** Utilize um seletor de elemento para alterar a cor de todos os parágrafos (`<p>`) para azul. => OK
     ```css
     p {
         color: blue;
@@ -10,7 +11,7 @@ Claro! Aqui está uma lista de 15 exercícios sobre seletores CSS (seletores bá
     ```
 
 2. **Exercício 2:** Use um seletor de classe para definir o texto em negrito e vermelho para todos os elementos com a
-   classe `.importante`.
+   classe `.importante`. => OK
     ```css
     .importante {
         color: red;
@@ -18,7 +19,7 @@ Claro! Aqui está uma lista de 15 exercícios sobre seletores CSS (seletores bá
     }
     ```
 
-3. **Exercício 3:** Aplique um fundo cinza claro e centralize o texto em um elemento com o ID `#cabeçalho`.
+3. **Exercício 3:** Aplique um fundo cinza claro e centralize o texto em um elemento com o ID `#cabeçalho`. => OK
     ```css
     #cabeçalho {
         background-color: lightgrey;
@@ -26,7 +27,7 @@ Claro! Aqui está uma lista de 15 exercícios sobre seletores CSS (seletores bá
     }
     ```
 
-4. **Exercício 4:** Crie um seletor de atributo que estilize todos os inputs que possuem o atributo `type`.
+4. **Exercício 4:** Crie um seletor de atributo que estilize todos os inputs que possuem o atributo `type`. => OK
     ```css
     input[type] {
         border: 2px solid green;
@@ -34,14 +35,14 @@ Claro! Aqui está uma lista de 15 exercícios sobre seletores CSS (seletores bá
     ```
 
 5. **Exercício 5:** Estilize todos os links (`<a>`) cujo atributo `href` contenha a palavra "example" com a cor
-   vermelha.
+   vermelha. => OK
     ```css
     a[href*="example"] {
         color: red;
     }
     ```
 
-6. **Exercício 6:** Aplique uma borda azul de 2px a todos os inputs do tipo texto (`<input type="text">`).
+6. **Exercício 6:** Aplique uma borda azul de 2px a todos os inputs do tipo texto (`<input type="text">`). => OK
     ```css
     input[type="text"] {
         border: 2px solid blue;

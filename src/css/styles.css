@@ -1,0 +1,31 @@
+p {
+    color: blue;
+}
+
+.importante {
+    color: red;
+    font-weight: bold;
+}
+
+#cabecalho {
+    background-color: lightgrey;
+    text-align: center;
+}
+
+input[type] {
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+}
+
+input[type="text"] {
+    border: 2px solid blue;
+}
+
+a[href*="example"] {
+    color: red;
+}
+
+.destaque {
+    background-color: yellow;
+}
