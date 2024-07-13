@@ -29,3 +29,8 @@ a[href*="example"] {
 .destaque {
     background-color: yellow;
 }
+
+#rodape {
+    background-color: black;
+    color: white;
+}

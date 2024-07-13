@@ -50,7 +50,7 @@ Claro! Aqui está uma lista de 15 exercícios sobre seletores CSS
     ```
 
 7. **Exercício 7:** Use um seletor de classe para aplicar um fundo amarelo a todos os elementos com a
-   classe `.destaque`.
+   classe `.destaque`. => OK
     ```css
     .destaque {
         background-color: yellow;
@@ -58,7 +58,7 @@ Claro! Aqui está uma lista de 15 exercícios sobre seletores CSS
     ```
 
 8. **Exercício 8:** Utilize um seletor de ID para alterar a cor de fundo do elemento com ID `#rodape` para preto e o
-   texto para branco.
+   texto para branco. => OK
     ```css
     #rodape {
         background-color: black;
